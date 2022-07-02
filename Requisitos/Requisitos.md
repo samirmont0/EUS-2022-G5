@@ -27,5 +27,5 @@ autopeças - contendo nome, telefone, e-mail, endereço...) (Fonte: Funcionário
 - Os papéis dos usuários devem ser divididos em Administrador e vendedor (Fonte: Software feito por aluno do grupo; Meio: Software Similar)
 - O papel de Administrador deve ter acesso a todas funcionalidades do sistema  (Fonte: Software feito por aluno do grupo; Meio: Software Similar)
 - A função de vendedor deve ter acesso apenas ao cadastro de carros, gastos, clientes e vendas  (Fonte: Software feito por aluno do grupo; Meio: Software Similar)
-- O sistema deve obedecer a lei LGPD - Lei Geral de Proteção de Dados Pessoais, nos artigos ---- COMPLETAR----, etc, para proteger os dados especificados no requisito 1(Fonte: Legislação brasileira)
+- O sistema deve obedecer a lei LGPD - Lei Geral de Proteção de Dados Pessoais, mais especificamente os artigos inseridos no capitulo 2, para proteger os dados especificados no requisito 1(Fonte: Legislação brasileira)
 - O sistema deve ser desenvolvido em uma aplicação WEB, para a disponibilização das informações para os administradores de qualquer local (Fonte: Donos de loja; Meio: Entrevista)
