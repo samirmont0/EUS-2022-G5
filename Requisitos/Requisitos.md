@@ -18,7 +18,7 @@ autopeças - contendo nome, telefone, e-mail, endereço...) (Fonte: Funcionário
 - Permitir que o administrador gere relatórios de vendas  e compras (Fonte: Dono de loja; Meio: Entrevista)
 - Permitir o administrador gerar relatório de gastos e lucros obtidos (Fonte: Dono de loja; Meio: Entrevista)
 
-## Requisitos Não-Funcionários
+## Requisitos Não-funcionais
 - A obtenção dos dados do veiculo a partir da placa será obtido através de uma conexão com a API do Sinesp  (Fonte: Cilia; Meio: Software Similar)
 - A automatização das postagens deve permitir a publicação em apenas um clique (Fonte: Dono de loja; Meio: Entrevista)
 - A automatização das postagens será realizada através do uso das APIs das redes sociais e sites de anúncios (OLX, Mercado livre, USADOFácil, etc) (Fonte: RevendaMais; Meio: Software Similar)
