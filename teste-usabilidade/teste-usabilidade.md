@@ -6,21 +6,21 @@ Esse documento tem como papel descrever os processos de teste que serão realiza
 
 ## 2. Participantes
 
-Os participantes involvidos no teste serão o observador e usuário.O observador será um dos responsaveis pela criação do protótipo. Os usuários serão membros das garagens parceira, sendo entre eles donos, vendedores e contadores dos estabelecimentos.
+Os participantes envolvidos no teste serão o observador e usuário. O observador será um dos responsaveis pela criação do protótipo e por analisar como o usuário está se comportando diante do protótipo. Os usuários serão membros das garagens parceira, sendo entre eles donos, vendedores e contadores dos estabelecimentos, que irão testar o protótipo.
 
 ## 3. Local do teste
 
-O processo será feito pelo usuário seguindo o roteiro, em seu computador de trabalho. Será enviado o roteiro, link do figma e o questionário. Após a realização do roteiro e de acessar o protótipó, os usuários responderão os questionários. Os testes serão feitos em uma ligação do meet com o usuário compartilhando sua tela para o observador.
+O processo será feito pelo usuário seguindo o roteiro, em seu computador de trabalho. Será enviado o roteiro, link do figma e o questionário. Após a realização do roteiro e de acessar o protótipó, os usuários responderão os questionários. Os testes serão feitos em uma ligação do meet com o usuário compartilhando sua tela para o observador. Outro método que se possível, será a utilização de câmera no rosto do usuário, para o observador perceber as reações do mesmo.
 
 ## 4. Roteiro
 
 As atividades a seguir devem ser realizadas durante o teste de usabilidade, sendo realizadas uma por vez e seguindo a sequência. 
 
-- O observador deve relembrar os usuários de teste que o teste tem como foco o protótipo e não o usuário. Os usuários 
-- O usuário deve descrever o motivo de realizar as ações e quando uma ação resultar em algo não esperado que o usuário descreva o que ele imaginou que essa ação deveria fazer
+- O observador deve relembrar os usuários de teste que o teste tem como foco o protótipo e não o usuário, deixando claro para o usuário não se importar com a parte visual, mas sim com as funcionalidades.
+- O usuário deve descrever o motivo de realizar as ações, e também quando uma ação resultar em algo não esperado, o usuário deve descrever o que ele imaginou que essa ação deveria fazer.
 
 ### 4.1. Identificar qual foram as ultimas operações realizadas no sistema
-O usuário deve identificar quais foram os ultimos carros a serem vendidos e adquiridos.
+O usuário deve identificar quais foram os últimos carros a serem vendidos e adquiridos.
 
 ### 4.2. Identificar o valor de vendas no mês de agosto
 O usuário deve identificar o valor aproximado de vendas realizada no mes de agosto.
@@ -28,7 +28,7 @@ O usuário deve identificar o valor aproximado de vendas realizada no mes de ago
 ### 4.3. Listar veiculos
 O usuário deve se direcionar a pagina listagem de veiculos e identificar quais os carros estão cadastrados no sistema.
 
-### 4.4. Flitrar veiculos
+### 4.4. Filtrar veiculos
 O usuário deve se direcionar a pagina listagem de veiculos e aplicar um filtro para identificar o veiculo de modelo Cherry QQ na listagem. O usuário deve testar alguns tipos de filtro e identificar suas responsividades.
 
 ### 4.5. Editar veiculo
