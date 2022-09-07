@@ -16,7 +16,6 @@ O processo será feito pelo usuário seguindo o roteiro, em seu computador de tr
 
 As atividades a seguir devem ser realizadas durante o teste de usabilidade, sendo realizadas uma por vez e seguindo a sequência. 
 
-- O observador deve relembrar os usuários de teste que o teste tem como foco o protótipo e não o usuário, deixando claro para o usuário não se importar com a parte visual, mas sim com as funcionalidades.
 - O usuário deve descrever o motivo de realizar as ações, e também quando uma ação resultar em algo não esperado, o usuário deve descrever o que ele imaginou que essa ação deveria fazer.
 
 ### 4.1. Identificar qual foram as ultimas operações realizadas no sistema
