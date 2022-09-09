@@ -31,3 +31,7 @@ Por fim, os funcionários da loja serão divididos em: contador, vendedor e admi
 
 
 Com isso visa-se facilitar a gerência de lojas de automóveis ao registrar e exibir a quantia de vendas, pontos do negócio que estão gerando lucros ou prejuízos, podendo assim, auxiliar na tomada de decisões do lojista. Assim como facilitar as atividades do dia a dia com criação de contratos, gestão de estoque de carros, registro de gastos com os carros, listagem dos clientes e dos automóveis comprados por eles. Com isso, as lojas teriam um diferencial das outras que trabalham de forma arcaica.
+
+
+
+Slide: https://docs.google.com/presentation/d/1xRqpTITKhZWZZHgB8XxHpsRGPz0zlaFsJRM2GHyS9hM/edit?usp=sharing
